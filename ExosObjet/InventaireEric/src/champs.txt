@@ -1,0 +1,10 @@
+typeInstrument String
+fabricant Fabricant
+modele String
+boisFond Bois
+boisTable Bois
+type Type
+
+boisArchet bois
+style Style
+nbCordes int
